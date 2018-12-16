@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "de-DE": {
+          "summary": "Beispielkurzbeschreibung",
+          "examplePhrases": [
+            "Alexa Open Hallo Weltvorlage"
+          ],
+          "keywords": [
+            "keyword1"
+          ],
+          "name": "DE Only 3.0",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f983/aa5c165464d24db3877034ac0298a44e/APP_ICON?versionId=Mecn7jB02ELen5Adno_KCoUDiTEGhEdb&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545040348&Signature=8mXTxNGHjIpZErmWmGJaahWBf9o%3D",
+          "description": "Probe Vollständige Beschreibung",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5ddc/a8ac8dc0e0ca4f06b760a2a5e08b9aea/APP_ICON_LARGE?versionId=sowszI12lqnGE87zjkjWqCFd0AT7.VOd&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545040348&Signature=VMI6WYgQJylCD%2FGOJ%2B6WDmO59F8%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-basic-starter-default",
+          "sourceDir": "lambda/us-east-1_ask-custom-basic-starter-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "de-DE": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

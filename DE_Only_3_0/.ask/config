@@ -21,7 +21,7 @@
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "f6a9e921-e089-477e-9f10-a4a670c32f77",
+            "revisionId": "82a8fecb-7d0f-4609-be2c-961f20f9ed27",
             "codeUri": "lambda/us-east-1_ask-custom-basic-starter-default",
             "handler": "index.handler",
             "runtime": "nodejs8.10"

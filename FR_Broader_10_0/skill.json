@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "fr-FR": {
+          "summary": "Exemple de description courte",
+          "examplePhrases": [
+            "Alexa ouvert bonjour modèle du monde"
+          ],
+          "keywords": [
+            "keyword1"
+          ],
+          "name": "FR Broader 10.0",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/13de/32bcc23da5404078bc067f625e6e625f/APP_ICON?versionId=AG0BNR3cS2zM4zcVLBOYdaU4sSWJZYUE&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090892&Signature=ZAN4Hrxf5bLWUE38g0NYyCziGHY%3D",
+          "description": "Description complète de l'échantillon",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3c84/955d31f3848c407099111e9d22c8a06b/APP_ICON_LARGE?versionId=OC6UKYyFnemn_ASL145iB3VoBuXmsINf&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090892&Signature=c9gqg%2Ftbsoftj4V0yTHDaqgGiYc%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-basic-starter-default",
+          "sourceDir": "lambda/us-east-1_ask-custom-basic-starter-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "fr-FR": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

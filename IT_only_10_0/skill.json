@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "it-IT": {
+          "summary": "Esempio di breve descrizione",
+          "examplePhrases": [
+            "Alexa apre l'antipasto base"
+          ],
+          "keywords": [
+            "keyword1"
+          ],
+          "name": "IT only 10.0",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/6c7c/19b4eff271354e9985b1017b2876530b/APP_ICON?versionId=g7y3GZxfouNbgAfm.4H2FmgfyTB4aOsz&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090423&Signature=3ZtD1FQJj9RuzOZZ9zwZTnENNL8%3D",
+          "description": "Esempio di descrizione completa",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/cf99/13c1e71ae67140cc8d5d1b3529f860ec/APP_ICON_LARGE?versionId=KAB2msSqoSQxln00xswLXsSZVr2g367o&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090423&Signature=bXdq3X1NEHOHp2YL33ht%2Bi3JFjY%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-basic-starter-default",
+          "sourceDir": "lambda/us-east-1_ask-custom-basic-starter-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "it-IT": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

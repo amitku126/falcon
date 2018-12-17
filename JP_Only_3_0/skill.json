@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "ja-JP": {
+          "summary": "サンプルの簡単な説明",
+          "examplePhrases": [
+            "Alexa open hello worldテンプレート"
+          ],
+          "keywords": [
+            "keyword1"
+          ],
+          "name": "JP Only 3.0",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bc61/a64e1116a6264347a6dfb96be81d16c7/APP_ICON?versionId=u_i94pGEajfE7lJUYHYehMhJZVkUl0h4&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545091032&Signature=tfdzScTUQNfX3rteNmmdF73hZhE%3D",
+          "description": "サンプルフル説明",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/2787/0de2903e5029464cbfd7138eed4e1440/APP_ICON_LARGE?versionId=P2bSVKdtBWYMXX5F0j8AwGTwUzFFz31a&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545091032&Signature=DyrBoXgLZgv6hRKMXtHtTU2TSNU%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-basic-starter-default",
+          "sourceDir": "lambda/us-east-1_ask-custom-basic-starter-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "ja-JP": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

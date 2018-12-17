@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "es-MX": {
+          "summary": "Muestra breve descripción",
+          "examplePhrases": [
+            "Arrancador básico abierto Alexa"
+          ],
+          "keywords": [
+            "keyword1"
+          ],
+          "name": "MX Only Exclusion",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5fda/c0c15973c30b4d81a2b42439de1b06e3/APP_ICON?versionId=q5OtqxBg84zdcJXnIA1SmGECS3WBXIXy&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090699&Signature=qftm3owyJwpqDhowzDy09LMEQoI%3D",
+          "description": "Muestra Descripción Completa",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/603d/544389d888184022b73a3136f25be382/APP_ICON_LARGE?versionId=eg_cYALfhMNJI_RTZi34pAVw8ZuaNw5W&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090699&Signature=vO6dP9kkafZWr55ZukL%2FB3SCw8I%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-basic-starter-default",
+          "sourceDir": "lambda/us-east-1_ask-custom-basic-starter-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "es-MX": {
+          "termsOfUseUrl": "http://dabblelab.com/terms",
+          "privacyPolicyUrl": "http://dabblelab.com/privacy"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

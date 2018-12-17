@@ -14,7 +14,7 @@
             "keyword2",
             "keyword3"
           ],
-          "name": "basic-starter",
+          "name": "All EN",
           "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
           "description": "Sample Full Description",
           "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
@@ -27,10 +27,10 @@
           "keywords": [
             "keyword1"
           ],
-          "name": "basic-starter",
-          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f7ae/3e0393a5203b479b94444e5b207fc809/APP_ICON?versionId=GcoC6k41IS7pyQ3GxDJ59.34oPF3PDIO&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=Wu%2F6eBu5yorRqs%2BQuxhL%2BNrdduU%3D",
+          "name": "All EN",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f7ae/3e0393a5203b479b94444e5b207fc809/APP_ICON?versionId=GcoC6k41IS7pyQ3GxDJ59.34oPF3PDIO&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=u%2B5iOTROFyS4HhfhVGbfpuBWFEA%3D",
           "description": "blah blah",
-          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5318/b1705a806b68446a978bb4302a60e717/APP_ICON_LARGE?versionId=qoptZxqOJTUhPP8.gArXQWhbIdtiftNC&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=7pmTpR3Xaetzya4%2FZwbFb5zKm8I%3D"
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5318/b1705a806b68446a978bb4302a60e717/APP_ICON_LARGE?versionId=qoptZxqOJTUhPP8.gArXQWhbIdtiftNC&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=vfwnq31k3OwO8ItETeHWNs1%2FRzA%3D"
         },
         "en-IN": {
           "summary": "blah blah",
@@ -40,10 +40,10 @@
           "keywords": [
             "keyword1"
           ],
-          "name": "basic-starter",
-          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5a97/9274c21f82704ab0ad543ce3689e8d7f/APP_ICON?versionId=.9H6eonOKvWwnnUX9bOBoC5SLl1vC091&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=gEInHEDoa%2Bh4o5pd21X9%2B2mutIQ%3D",
+          "name": "All EN",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/5a97/9274c21f82704ab0ad543ce3689e8d7f/APP_ICON?versionId=.9H6eonOKvWwnnUX9bOBoC5SLl1vC091&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=LxGgHD4M3lhRNQV82YaUMRHOwM0%3D",
           "description": "blah blajh",
-          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f61c/e20261f913dc4940addbd4d9052a1ec0/APP_ICON_LARGE?versionId=it0jyQYbShCCOh52v7vKMo9v28ajGWlv&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=082aoab4TPDCqDn9Ne9HnD5qPeI%3D"
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f61c/e20261f913dc4940addbd4d9052a1ec0/APP_ICON_LARGE?versionId=it0jyQYbShCCOh52v7vKMo9v28ajGWlv&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=EeqjE70aiszpsaeRc561lEh1ezc%3D"
         },
         "en-AU": {
           "summary": "blah blah",
@@ -53,10 +53,10 @@
           "keywords": [
             "keyword1"
           ],
-          "name": "basic-starter",
-          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/20c9/5d095c398d7f43cdbf4c790795a6816a/APP_ICON?versionId=K1m61vu2UEr7OBaJzfdXB0eDVD4fJVWw&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=HU7lYFbUOsiBtygH8ZCdTw66s3E%3D",
+          "name": "All EN",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/20c9/5d095c398d7f43cdbf4c790795a6816a/APP_ICON?versionId=K1m61vu2UEr7OBaJzfdXB0eDVD4fJVWw&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=N0DBekoNFLebyOkFBR80ye49iwA%3D",
           "description": "blah blah",
-          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/12c9/42bc9e5592bd4c6992dd470b1a160b1b/APP_ICON_LARGE?versionId=Fw.ooYbDg4zrnY98EGlsHIG.0MtOjQCn&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=0DgL6P5a8d4UtzDkKUcxiKWChhk%3D"
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/12c9/42bc9e5592bd4c6992dd470b1a160b1b/APP_ICON_LARGE?versionId=Fw.ooYbDg4zrnY98EGlsHIG.0MtOjQCn&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=VX7xA37V6r4DQt63e%2B92h8IjLqk%3D"
         },
         "en-GB": {
           "summary": "Sample Short Description",
@@ -66,10 +66,10 @@
           "keywords": [
             "keyword1"
           ],
-          "name": "basic-starter",
-          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/ddf8/06601270ee19465692c23a4811728ae8/APP_ICON?versionId=7Pr0BU4VUrY.1msCiWm9_mkME6Bb8Aig&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=A1p6tUGuEiqX6%2FoFdp%2BmeonfJVU%3D",
+          "name": "All EN",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/ddf8/06601270ee19465692c23a4811728ae8/APP_ICON?versionId=7Pr0BU4VUrY.1msCiWm9_mkME6Bb8Aig&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=2UxJ9f6w5GovR44eTgEWLdqlaKk%3D",
           "description": "Sample Full Description",
-          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/8257/d680e1c720a94b039d4c4ebe4ace634d/APP_ICON_LARGE?versionId=2rAypg1_iJFh4qeu0qdzvuzQ2m.HPF.C&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545046720&Signature=Mw%2BkhjSaNcHIJ49Spn%2BnOJ3mu%2F4%3D"
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/8257/d680e1c720a94b039d4c4ebe4ace634d/APP_ICON_LARGE?versionId=2rAypg1_iJFh4qeu0qdzvuzQ2m.HPF.C&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1545090321&Signature=iCnAJwWP0FP1m5a87y1QFKeZjs4%3D"
         }
       },
       "isAvailableWorldwide": true,
